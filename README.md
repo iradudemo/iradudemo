@@ -1,8 +1,6 @@
 [![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)]
 <h1 align="center">Hi 👋, I'm Jean Claude</h1>
 <h3 align="center">A passionate FullStack developer from Rwanda</h3>
-<img src="https://media.licdn.com/dms/image/C5603AQHMR6vwUKQqMQ/profile-displayphoto-shrink_200_200/0/1626561296213?e=1678320000&v=beta&t=aXxpQZnK7_13yDKOuUGAxtQcsRXDUVDC-pmWgcDBTs4" alt="me">
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iradudemo&label=Profile%20views&color=0e75b6&style=flat" alt="iradudemo" /> </p>
 
