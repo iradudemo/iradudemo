@@ -1,12 +1,14 @@
 [![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)]
 <h1 align="center">Hi 👋, I'm Jean Claude</h1>
-<h3 align="center">A passionate FullStack developer from Rwanda</h3>
+<h3 align="center">A passionate FullStack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iradudemo&label=Profile%20views&color=0e75b6&style=flat" alt="iradudemo" /> </p>
 
 <p align="left"> <a href="https://twitter.com/j_claudee" target="blank"><img src="https://img.shields.io/twitter/follow/j_claudee?logo=twitter&style=for-the-badge" alt="j_claudee" /></a> </p>
 
 - 🔭 I’m currently working on **FootClub Platform**
+
+- 💬 Ask me about **backend and front-end**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,4 +23,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iradudemo&show_icons=true&locale=en" alt="iradudemo" /></p>
 
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iradudemo&" alt="iradudemo" /></p>
