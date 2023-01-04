@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/j_claudee" target="blank"><img src="https://img.shields.io/twitter/follow/j_claudee?logo=twitter&style=for-the-badge" alt="j_claudee" /></a> </p>
 
-- 🔭 I’m currently working on **FootClub Platform**
+- 🔭 I’m currently working on **Fan Club collaboration Platform**
 
 - 💬 Ask me about **backend and front-end**
 
